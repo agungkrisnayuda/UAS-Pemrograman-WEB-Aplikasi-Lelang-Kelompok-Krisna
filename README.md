@@ -73,7 +73,7 @@ Project ini dibuat sebagai tugas UAS Pemrograman Web yang beranggotakan.
 
 ---
 
-# 🗂️ Database Structure
+# Database Structure
 
 ## Users
 
@@ -115,7 +115,7 @@ Project ini dibuat sebagai tugas UAS Pemrograman Web yang beranggotakan.
 
 ---
 
-# 📊 ERD
+# ERD
 
 ```text
 USERS
@@ -137,13 +137,13 @@ USERS
   | N
 AUCTIONS (Winner)
 ```
-# 📊 ERD Design
+# ERD Design
 <img width="1536" height="1024" alt="ERD PRIMAKARA AUCTION" src="https://github.com/user-attachments/assets/a4e61b63-240b-4988-9254-aec1927aa744" />
 
 
 ---
 
-# 🚀 Installation
+# Installation
 
 ## Clone Repository
 
@@ -390,7 +390,7 @@ Tambahkan screenshot winner disini
 
 **Made by:**
 
-MrArsel  
+Krisna, Dewa, Anjun
 Universitas Primakara  
 Program Studi Sistem Informasi
 
