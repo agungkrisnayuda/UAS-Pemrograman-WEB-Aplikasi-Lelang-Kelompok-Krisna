@@ -53,7 +53,7 @@ Project ini dibuat sebagai tugas UAS Pemrograman Web yang beranggotakan.
 
 ---
 
-# 🛠️ Tech Stack
+# Tech Stack
 
 ## Backend
 
