@@ -1,20 +1,23 @@
 # UAS-Pemrograman-WEB-Aplikasi-Lelang-Kelompok-Krisna
 
-# 🎯 Primakara Auction
+# Primakara Auction
 
 Realtime Online Auction Platform built with Laravel 12, Vue.js 3, MySQL, Laravel Reverb, and Bootstrap.
 
 ---
 
-## 📖 About Project
+## About Project
 
 Primakara Auction adalah aplikasi lelang online realtime yang memungkinkan pengguna membuat lelang, melakukan bidding secara langsung (realtime), serta menentukan pemenang secara otomatis setelah waktu lelang berakhir.
 
-Project ini dibuat sebagai tugas UAS Pemrograman Web.
+Project ini dibuat sebagai tugas UAS Pemrograman Web yang beranggotakan.
+1. I Komang Gede Agung Krisna Yuda Kurniawan [2401010030]
+2. I Dewa Ageng Semara Kepakisan [2401010021]
+3. I Kadek Anjuna Indra Praditya [2401010022]
 
 ---
 
-## ✨ Features
+## Features
 
 ### Authentication
 - Login
