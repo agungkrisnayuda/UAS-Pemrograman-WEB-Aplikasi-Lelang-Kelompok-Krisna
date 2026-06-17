@@ -134,6 +134,9 @@ USERS
   | N
 AUCTIONS (Winner)
 ```
+# 📊 ERD Design
+<img width="1536" height="1024" alt="ERD PRIMAKARA AUCTION" src="https://github.com/user-attachments/assets/a4e61b63-240b-4988-9254-aec1927aa744" />
+
 
 ---
 
